@@ -1,0 +1,521 @@
+product_id,product_name,category,supplier,cost_price,on_hand_qty,reserved_qty,in_transit_qty,reorder_point,reorder_qty,safety_stock,lead_time_days,last_restock_date,first_received_date,daily_sales_velocity
+SKU-1011,Hardcover Journal Notebook,Personal Care,Supplier C,210.0,34,1,0,10,20,5,27,2025-10-09,2025-04-01,0.016666666666666666
+SKU-1001,Organic Cotton T-Shirt,Personal Care,Supplier D,485.5,138,15,0,10,20,5,7,2025-08-28,2025-06-08,0.0
+SKU-1002,Wireless Bluetooth Speaker,Apparel,Supplier C,1250.0,137,4,0,10,20,5,24,2025-10-02,2025-06-26,0.0
+SKU-1003,Handmade Leather Wallet,Apparel,Supplier C,450.0,33,3,10,10,20,5,13,2025-09-06,2025-07-20,0.11666666666666667
+SKU-1018,Minimalist Wall Clock,Personal Care,Supplier D,720.0,53,3,10,10,20,5,6,2025-08-29,2024-10-29,0.016666666666666666
+SKU-1019,Desk Organizer Tray,Electronics,Supplier D,350.0,152,18,50,10,20,5,15,2025-10-20,2025-09-10,0.0
+SKU-1013,Gourmet Coffee Beans (250g),Electronics,Supplier C,380.0,224,28,0,10,20,5,7,2025-08-04,2024-11-05,0.05
+SKU-1016,Insulated Lunch Box,Personal Care,Supplier A,650.7,84,1,0,10,20,5,22,2025-09-06,2025-06-02,0.18333333333333332
+SKU-1008,Portable Power Bank 10000mAh,Electronics,Supplier A,975.5,148,4,0,10,20,5,26,2025-10-18,2025-03-24,0.0
+SKU-1015,Bamboo Cutting Board,Books,Supplier D,410.0,179,30,10,10,20,5,11,2025-09-17,2024-11-20,0.0
+SKU-1357,Unleash Revolutionary Supply-Chains,Books,Supplier A,4942.89,223,10,0,10,20,5,24,2025-08-05,2025-03-23,0.05
+SKU-1098,E-Enable Killer Web-Readiness,Apparel,Supplier D,769.24,99,10,0,10,20,5,10,2025-10-07,2024-12-23,0.03333333333333333
+SKU-1294,Syndicate B2B Mindshare,Electronics,Supplier B,4273.0,38,7,0,10,20,5,15,2025-10-21,2024-11-22,0.03333333333333333
+SKU-1478,Generate Front-End Schemas,Books,Supplier C,1203.75,48,6,10,10,20,5,10,2025-10-28,2024-12-06,0.05
+SKU-1340,Brand Dot-Com Markets,Home Goods,Supplier C,384.21,6,0,10,10,20,5,27,2025-10-20,2025-04-08,0.0
+SKU-1029,Engage B2B Metrics,Books,Supplier B,3486.01,2,0,0,10,20,5,6,2025-08-28,2024-12-07,0.05
+SKU-1114,Synergize Synergistic Platforms,Home Goods,Supplier D,2193.37,76,0,20,10,20,5,24,2025-10-17,2025-02-07,0.05
+SKU-1226,Extend Innovative Action-Items,Apparel,Supplier C,3815.85,123,8,0,10,20,5,7,2025-09-07,2025-06-22,0.06666666666666667
+SKU-1288,Monetize Web-Enabled Architectures,Electronics,Supplier D,2248.94,10,1,0,10,20,5,18,2025-08-10,2025-04-29,0.0
+SKU-1022,Revolutionize Scalable Channels,Home Goods,Supplier C,3721.48,219,36,20,10,20,5,17,2025-10-11,2025-09-05,0.11666666666666667
+SKU-1020,UV Protection Sunglasses,Home Goods,Supplier A,950.5,80,8,0,10,20,5,13,2025-09-02,2024-12-10,0.0
+SKU-1415,Repurpose Rich E-Tailers,Apparel,Supplier C,4938.84,237,16,0,10,20,5,16,2025-08-06,2025-04-27,0.05
+SKU-1292,Embrace One-To-One E-Tailers,Apparel,Supplier A,925.28,35,6,10,10,20,5,20,2025-09-27,2025-03-31,0.05
+SKU-1102,Iterate Turn-Key Web-Readiness,Electronics,Supplier B,300.66,80,2,0,10,20,5,20,2025-08-21,2025-02-24,0.03333333333333333
+SKU-1177,Redefine Cross-Platform E-Business,Personal Care,Supplier A,1320.82,208,25,0,10,20,5,13,2025-08-16,2024-11-29,0.06666666666666667
+SKU-1295,Re-Contextualize Next-Generation Roi,Electronics,Supplier D,1076.38,291,8,10,10,20,5,13,2025-10-26,2025-03-23,0.0
+SKU-1031,Incubate Viral Synergies,Electronics,Supplier A,1769.25,253,4,10,10,20,5,24,2025-08-10,2025-06-16,0.08333333333333333
+SKU-1037,Embrace Vertical Models,Electronics,Supplier B,3509.44,111,5,0,10,20,5,11,2025-10-02,2025-01-27,0.016666666666666666
+SKU-1390,Productize Compelling Markets,Home Goods,Supplier D,4391.08,204,16,0,10,20,5,27,2025-09-25,2025-07-24,0.0
+SKU-1442,Benchmark B2B Schemas,Home Goods,Supplier D,3631.76,220,10,0,10,20,5,11,2025-10-05,2025-01-17,0.03333333333333333
+SKU-1038,Embrace Real-Time Supply-Chains,Personal Care,Supplier B,1499.78,256,7,0,10,20,5,21,2025-08-12,2025-03-03,0.05
+SKU-1169,Extend Virtual Functionalities,Home Goods,Supplier B,4565.5,73,0,0,10,20,5,17,2025-10-25,2025-05-18,0.0
+SKU-1296,Enhance Value-Added Roi,Electronics,Supplier B,944.36,73,5,20,10,20,5,9,2025-08-02,2025-03-30,0.0
+SKU-1399,Harness Interactive Communities,Electronics,Supplier D,2019.85,219,1,10,10,20,5,15,2025-10-23,2025-05-12,0.0
+SKU-1328,Repurpose Impactful Systems,Electronics,Supplier B,2205.77,95,17,0,10,20,5,29,2025-08-08,2024-12-12,0.06666666666666667
+SKU-1298,Evolve Back-End Initiatives,Books,Supplier D,1777.09,126,20,0,10,20,5,22,2025-10-20,2025-07-03,0.03333333333333333
+SKU-1245,Monetize Distributed Mindshare,Personal Care,Supplier A,1200.56,228,2,0,10,20,5,24,2025-10-24,2024-12-29,0.016666666666666666
+SKU-1068,Streamline Transparent Schemas,Home Goods,Supplier C,621.98,261,15,0,10,20,5,29,2025-08-09,2025-04-12,0.0
+SKU-1408,Enhance Integrated Networks,Books,Supplier A,2727.72,125,22,0,10,20,5,25,2025-09-29,2024-12-21,0.0
+SKU-1219,Aggregate Distributed Channels,Personal Care,Supplier C,3297.74,241,20,20,10,20,5,15,2025-10-05,2025-01-28,0.03333333333333333
+SKU-1130,Aggregate Vertical E-Tailers,Apparel,Supplier B,2235.51,122,5,0,10,20,5,5,2025-08-14,2025-04-01,0.15
+SKU-1452,Architect Compelling Synergies,Apparel,Supplier B,3937.83,45,3,0,10,20,5,10,2025-09-02,2025-05-22,0.05
+SKU-1297,Integrate Value-Added Convergence,Apparel,Supplier C,2184.13,18,1,0,10,20,5,18,2025-09-05,2025-03-04,0.0
+SKU-1309,Mesh Leading-Edge Supply-Chains,Apparel,Supplier B,555.83,93,12,50,10,20,5,12,2025-10-13,2024-11-18,0.08333333333333333
+SKU-1247,Grow Viral Markets,Electronics,Supplier D,3666.66,232,31,0,10,20,5,21,2025-10-11,2025-08-18,0.0
+SKU-1493,Expedite Next-Generation Markets,Electronics,Supplier D,1214.43,234,46,0,10,20,5,24,2025-09-24,2025-04-10,0.0
+SKU-1498,Embrace Scalable Mindshare,Books,Supplier D,2874.8,230,1,50,10,20,5,15,2025-10-25,2024-11-05,0.05
+SKU-1164,E-Enable User-Centric Info-Mediaries,Books,Supplier B,1143.53,68,3,20,10,20,5,12,2025-09-18,2024-09-26,0.016666666666666666
+SKU-1009,Ceramic Coffee Mug Set,Personal Care,Supplier B,550.0,231,40,0,10,20,5,13,2025-08-03,2025-04-09,0.06666666666666667
+SKU-1024,Aggregate Viral Users,Books,Supplier C,3925.84,267,20,20,10,20,5,27,2025-10-03,2025-06-12,0.016666666666666666
+SKU-1201,Synergize B2C Paradigms,Electronics,Supplier A,2266.74,117,0,0,10,20,5,21,2025-10-24,2025-08-03,0.05
+SKU-1473,Redefine Ubiquitous Action-Items,Apparel,Supplier C,4977.01,284,20,0,10,20,5,16,2025-08-25,2024-10-14,0.05
+SKU-1306,Utilize Cutting-Edge Platforms,Home Goods,Supplier C,2657.15,199,31,10,10,20,5,12,2025-09-27,2025-08-24,0.0
+SKU-1319,Benchmark Vertical Initiatives,Home Goods,Supplier A,3629.28,182,13,10,10,20,5,14,2025-08-18,2025-04-25,0.1
+SKU-1069,Implement Customized E-Markets,Apparel,Supplier B,1407.56,208,19,0,10,20,5,27,2025-10-21,2024-11-09,0.0
+SKU-1456,Evolve Dynamic Action-Items,Books,Supplier C,3011.85,14,1,0,10,20,5,12,2025-09-28,2024-10-23,0.05
+SKU-1331,Grow Virtual Platforms,Apparel,Supplier A,1434.51,296,47,0,10,20,5,16,2025-09-15,2025-05-16,0.0
+SKU-1407,Reinvent Customized Relationships,Apparel,Supplier D,4779.03,292,49,0,10,20,5,12,2025-09-09,2024-11-03,0.0
+SKU-1150,Expedite World-Class Experiences,Personal Care,Supplier A,4274.26,96,6,0,10,20,5,5,2025-10-03,2025-02-02,0.0
+SKU-1042,Evolve Collaborative Eyeballs,Personal Care,Supplier B,500.47,191,11,20,10,20,5,16,2025-09-08,2025-07-09,0.18333333333333332
+SKU-1058,Generate Synergistic E-Tailers,Home Goods,Supplier B,1115.27,203,25,10,10,20,5,26,2025-09-16,2025-07-22,0.0
+SKU-1346,Exploit Customized Supply-Chains,Electronics,Supplier C,1101.74,168,17,0,10,20,5,13,2025-09-14,2025-06-02,0.05
+SKU-1495,Enable Strategic Info-Mediaries,Apparel,Supplier C,3405.42,171,0,0,10,20,5,24,2025-10-20,2025-03-18,0.05
+SKU-1365,Leverage Wireless Niches,Home Goods,Supplier C,731.06,10,1,0,10,20,5,14,2025-10-21,2025-07-05,0.0
+SKU-1238,Deliver Cross-Platform Partnerships,Electronics,Supplier C,486.19,0,0,10,10,20,5,7,2025-08-07,2024-09-07,0.0
+SKU-1081,Enhance B2B Vortals,Apparel,Supplier C,4597.48,51,10,0,10,20,5,25,2025-10-27,2025-07-21,0.13333333333333333
+SKU-1053,Mesh Robust Web Services,Home Goods,Supplier C,3775.06,92,13,0,10,20,5,24,2025-08-29,2024-11-20,0.0
+SKU-1341,E-Enable Value-Added Action-Items,Apparel,Supplier A,2622.34,264,31,0,10,20,5,23,2025-09-11,2025-06-26,0.08333333333333333
+SKU-1128,Iterate Viral Communities,Electronics,Supplier A,1867.97,139,26,0,10,20,5,5,2025-09-29,2025-07-04,0.0
+SKU-1475,Strategize Scalable Synergies,Books,Supplier A,4167.17,77,2,0,10,20,5,5,2025-09-17,2025-05-10,0.03333333333333333
+SKU-1207,Aggregate Next-Generation Applications,Books,Supplier B,3214.06,157,2,0,10,20,5,25,2025-08-07,2025-04-24,0.0
+SKU-1064,Strategize Granular Technologies,Apparel,Supplier D,4684.98,172,18,10,10,20,5,8,2025-08-20,2025-04-01,0.016666666666666666
+SKU-1489,Reinvent Granular E-Business,Apparel,Supplier B,3997.47,93,12,50,10,20,5,19,2025-09-05,2024-12-24,0.03333333333333333
+SKU-1401,Productize Turn-Key Relationships,Personal Care,Supplier A,685.06,101,13,10,10,20,5,21,2025-09-22,2025-02-26,0.016666666666666666
+SKU-1027,Optimize Seamless Info-Mediaries,Apparel,Supplier A,1100.87,49,3,0,10,20,5,12,2025-10-15,2025-06-30,0.016666666666666666
+SKU-1449,Aggregate Out-Of-The-Box Roi,Electronics,Supplier C,4982.42,244,42,0,10,20,5,28,2025-09-30,2024-11-07,0.05
+SKU-1121,Syndicate Collaborative Solutions,Apparel,Supplier B,2252.72,36,3,50,10,20,5,23,2025-10-19,2025-01-17,0.0
+SKU-1108,Orchestrate Viral E-Services,Apparel,Supplier A,4996.44,247,14,0,10,20,5,15,2025-09-12,2024-09-24,0.05
+SKU-1021,Aggregate Dynamic Niches,Personal Care,Supplier B,1859.12,270,37,10,10,20,5,12,2025-08-21,2025-04-29,0.0
+SKU-1232,Matrix Innovative Experiences,Personal Care,Supplier A,3807.52,40,5,10,10,20,5,18,2025-08-17,2024-09-27,0.05
+SKU-1480,Empower Integrated Roi,Electronics,Supplier D,1179.49,119,5,0,10,20,5,27,2025-10-20,2025-07-24,0.03333333333333333
+SKU-1171,Deliver Front-End Niches,Electronics,Supplier D,1849.8,117,23,50,10,20,5,27,2025-10-10,2024-12-22,0.03333333333333333
+SKU-1265,Innovate Magnetic Communities,Home Goods,Supplier C,899.76,193,1,0,10,20,5,14,2025-09-01,2025-01-27,0.0
+SKU-1092,Benchmark Leading-Edge Networks,Books,Supplier D,4706.56,134,21,0,10,20,5,23,2025-10-11,2024-11-07,0.0
+SKU-1469,Strategize Scalable Channels,Home Goods,Supplier B,4277.61,143,11,0,10,20,5,29,2025-09-14,2024-11-04,0.06666666666666667
+SKU-1125,Morph Virtual Bandwidth,Books,Supplier A,2509.76,52,10,50,10,20,5,9,2025-08-30,2025-07-24,0.05
+SKU-1110,Generate Back-End Markets,Electronics,Supplier D,1232.44,16,2,0,10,20,5,25,2025-10-27,2025-05-10,0.05
+SKU-1250,Enable Value-Added Users,Books,Supplier C,1435.87,196,14,0,10,20,5,24,2025-09-06,2024-12-03,0.03333333333333333
+SKU-1448,Envisioneer 24/7 Convergence,Home Goods,Supplier B,2071.67,119,19,0,10,20,5,17,2025-09-11,2025-02-22,0.03333333333333333
+SKU-1095,Synthesize One-To-One Action-Items,Books,Supplier A,1160.19,286,12,0,10,20,5,9,2025-10-05,2024-12-26,0.0
+SKU-1323,Synthesize Collaborative Methodologies,Personal Care,Supplier C,1600.25,128,11,10,10,20,5,13,2025-09-14,2024-10-17,0.05
+SKU-1514,Unleash Dot-Com Users,Electronics,Supplier B,3658.88,226,11,0,10,20,5,18,2025-08-21,2025-06-22,0.0
+SKU-1414,Architect Synergistic Roi,Books,Supplier C,2966.15,46,0,20,10,20,5,9,2025-08-20,2025-07-05,0.08333333333333333
+SKU-1119,Monetize Seamless Channels,Apparel,Supplier B,3945.79,184,1,0,10,20,5,15,2025-10-11,2025-03-13,0.03333333333333333
+SKU-1168,Evolve Robust E-Services,Home Goods,Supplier A,1013.08,20,1,0,10,20,5,6,2025-10-25,2025-01-10,0.016666666666666666
+SKU-1429,Implement B2C Vortals,Electronics,Supplier A,1756.78,222,39,0,10,20,5,16,2025-09-16,2024-10-03,0.0
+SKU-1454,Aggregate Sticky Architectures,Personal Care,Supplier A,4249.93,113,12,0,10,20,5,10,2025-08-12,2024-08-15,0.08333333333333333
+SKU-1375,Aggregate Viral Eyeballs,Home Goods,Supplier D,1991.45,12,1,0,10,20,5,16,2025-10-07,2024-10-19,0.0
+SKU-1103,Strategize Magnetic Markets,Personal Care,Supplier C,2415.58,271,49,0,10,20,5,17,2025-08-04,2025-06-28,0.06666666666666667
+SKU-1048,Enable Next-Generation Functionalities,Books,Supplier B,2705.22,36,1,0,10,20,5,18,2025-10-09,2025-06-18,0.016666666666666666
+SKU-1425,Leverage Dot-Com Functionalities,Apparel,Supplier C,3037.64,78,10,50,10,20,5,19,2025-09-16,2025-05-17,0.0
+SKU-1391,Seize Strategic Markets,Personal Care,Supplier D,4356.02,6,0,0,10,20,5,27,2025-10-04,2025-03-03,0.0
+SKU-1178,Re-Contextualize World-Class E-Tailers,Personal Care,Supplier C,3165.6,120,20,0,10,20,5,17,2025-08-18,2025-04-06,0.0
+SKU-1290,Exploit Turn-Key Vortals,Apparel,Supplier B,3312.27,182,1,0,10,20,5,15,2025-08-05,2025-04-12,0.0
+SKU-1347,Monetize Enterprise Metrics,Home Goods,Supplier A,4243.96,278,39,20,10,20,5,22,2025-08-11,2024-12-21,0.016666666666666666
+SKU-1316,Syndicate Customized Niches,Electronics,Supplier D,465.44,202,18,10,10,20,5,12,2025-08-05,2024-12-31,0.0
+SKU-1439,Monetize One-To-One E-Markets,Personal Care,Supplier C,1431.54,102,5,50,10,20,5,6,2025-09-29,2025-01-27,0.0
+SKU-1149,Implement Distributed Info-Mediaries,Personal Care,Supplier C,4696.7,146,11,0,10,20,5,5,2025-08-29,2025-03-28,0.0
+SKU-1040,Aggregate Best-Of-Breed Solutions,Books,Supplier B,1627.56,132,7,0,10,20,5,25,2025-08-05,2024-11-25,0.0
+SKU-1269,Engineer Sticky E-Markets,Personal Care,Supplier C,1735.22,75,13,50,10,20,5,11,2025-08-16,2024-11-01,0.0
+SKU-1135,Aggregate Innovative Portals,Books,Supplier C,3756.66,73,9,10,10,20,5,15,2025-09-07,2025-06-08,0.016666666666666666
+SKU-1397,Enable Compelling Supply-Chains,Home Goods,Supplier D,2289.62,86,8,0,10,20,5,16,2025-09-13,2025-04-21,0.1
+SKU-1286,Orchestrate Compelling Relationships,Books,Supplier C,1409.09,129,15,0,10,20,5,27,2025-10-07,2025-02-03,0.03333333333333333
+SKU-1100,Integrate Back-End Initiatives,Electronics,Supplier D,377.77,185,1,0,10,20,5,9,2025-08-21,2024-11-09,0.08333333333333333
+SKU-1463,Monetize Back-End Partnerships,Electronics,Supplier C,3141.96,224,36,0,10,20,5,8,2025-10-04,2024-11-26,0.03333333333333333
+SKU-1136,Utilize Intuitive Info-Mediaries,Home Goods,Supplier A,4614.21,237,13,0,10,20,5,16,2025-08-18,2024-10-07,0.08333333333333333
+SKU-1474,Facilitate B2C Info-Mediaries,Personal Care,Supplier C,1793.01,96,17,0,10,20,5,15,2025-10-28,2024-11-20,0.0
+SKU-1158,Mesh Innovative Functionalities,Books,Supplier C,4233.21,167,16,0,10,20,5,6,2025-10-08,2025-05-04,0.08333333333333333
+SKU-1482,Synergize Impactful Initiatives,Books,Supplier C,2939.93,97,15,20,10,20,5,18,2025-10-11,2025-03-10,0.0
+SKU-1143,Morph Customized Web Services,Books,Supplier B,3763.69,115,22,0,10,20,5,20,2025-08-04,2024-09-22,0.03333333333333333
+SKU-1345,Orchestrate Leading-Edge Mindshare,Home Goods,Supplier C,2160.51,74,12,50,10,20,5,13,2025-08-11,2025-03-10,0.1
+SKU-1335,Brand Transparent Portals,Apparel,Supplier D,2711.22,21,3,0,10,20,5,20,2025-09-26,2025-08-04,0.06666666666666667
+SKU-1511,Productize Value-Added Roi,Home Goods,Supplier A,1919.7,165,23,0,10,20,5,10,2025-09-26,2024-12-26,0.03333333333333333
+SKU-1381,E-Enable B2C Architectures,Apparel,Supplier B,383.98,213,26,0,10,20,5,25,2025-08-06,2024-12-24,0.03333333333333333
+SKU-1441,Disintermediate Web-Enabled Synergies,Apparel,Supplier C,4149.09,30,3,0,10,20,5,28,2025-08-04,2025-02-04,0.016666666666666666
+SKU-1134,Aggregate Customized Markets,Home Goods,Supplier C,4235.24,197,17,0,10,20,5,22,2025-10-10,2025-06-27,0.03333333333333333
+SKU-1485,Re-Intermediate E-Business Deliverables,Apparel,Supplier D,4629.14,94,12,0,10,20,5,29,2025-08-15,2024-11-09,0.05
+SKU-1267,Morph Wireless Architectures,Apparel,Supplier D,347.17,228,0,10,10,20,5,15,2025-09-13,2025-06-20,0.016666666666666666
+SKU-1376,Unleash Wireless Functionalities,Books,Supplier B,4351.03,294,25,20,10,20,5,23,2025-09-20,2025-04-01,0.06666666666666667
+SKU-1436,Scale Revolutionary Supply-Chains,Home Goods,Supplier C,325.67,216,38,10,10,20,5,18,2025-08-25,2024-12-04,0.11666666666666667
+SKU-1170,Re-Intermediate Efficient Markets,Apparel,Supplier B,2233.09,124,10,0,10,20,5,5,2025-09-08,2024-12-24,0.0
+SKU-1118,Architect Real-Time Content,Home Goods,Supplier B,1930.21,279,36,0,10,20,5,12,2025-08-21,2025-05-20,0.0
+SKU-1051,Cultivate Wireless Supply-Chains,Electronics,Supplier D,3669.65,256,6,0,10,20,5,12,2025-09-30,2025-08-24,0.08333333333333333
+SKU-1166,Transition Magnetic Web Services,Books,Supplier B,3218.39,58,3,0,10,20,5,16,2025-10-19,2025-02-06,0.0
+SKU-1361,Incubate Seamless Schemas,Electronics,Supplier B,4997.84,66,2,0,10,20,5,6,2025-08-26,2024-09-17,0.0
+SKU-1285,Utilize Compelling Eyeballs,Apparel,Supplier C,1742.75,81,15,10,10,20,5,18,2025-08-02,2025-03-23,0.08333333333333333
+SKU-1197,Transition Interactive Partnerships,Personal Care,Supplier C,3295.43,46,4,0,10,20,5,7,2025-10-12,2024-12-25,0.0
+SKU-1133,Target Global E-Business,Home Goods,Supplier B,2417.17,81,15,0,10,20,5,6,2025-08-09,2025-05-24,0.016666666666666666
+SKU-1438,Redefine Clicks-And-Mortar Paradigms,Home Goods,Supplier A,542.97,4,0,10,10,20,5,7,2025-10-04,2025-03-07,0.06666666666666667
+SKU-1268,Transition Sticky Content,Personal Care,Supplier B,1145.16,241,13,10,10,20,5,10,2025-08-05,2025-02-10,0.0
+SKU-1293,Utilize Front-End Bandwidth,Books,Supplier B,494.5,169,1,0,10,20,5,11,2025-09-11,2025-05-08,0.05
+SKU-1383,Monetize Ubiquitous Relationships,Personal Care,Supplier B,1584.92,80,8,0,10,20,5,5,2025-09-21,2024-10-06,0.0
+SKU-1355,Incubate Value-Added Partnerships,Personal Care,Supplier C,421.4,188,17,0,10,20,5,15,2025-09-29,2025-01-08,0.0
+SKU-1430,Generate Mission-Critical Deliverables,Apparel,Supplier D,3401.75,64,8,0,10,20,5,20,2025-09-14,2025-08-08,0.03333333333333333
+SKU-1199,Drive Bricks-And-Clicks Applications,Personal Care,Supplier D,4005.42,210,12,0,10,20,5,8,2025-09-05,2024-12-11,0.0
+SKU-1510,Orchestrate Cross-Media Vortals,Apparel,Supplier A,4728.15,18,0,0,10,20,5,17,2025-10-26,2024-12-22,0.05
+SKU-1471,Matrix Extensible Deliverables,Apparel,Supplier C,3484.6,133,22,0,10,20,5,23,2025-09-27,2025-05-18,0.05
+SKU-1516,Repurpose 24/7 Portals,Apparel,Supplier D,1165.22,194,25,20,10,20,5,24,2025-09-22,2025-02-15,0.1
+SKU-1196,Mesh 24/365 Markets,Books,Supplier B,3534.58,53,2,20,10,20,5,19,2025-09-17,2025-01-31,0.03333333333333333
+SKU-1370,Re-Intermediate End-To-End Info-Mediaries,Personal Care,Supplier A,1404.5,134,23,0,10,20,5,7,2025-09-16,2025-03-03,0.13333333333333333
+SKU-1326,Target Wireless E-Markets,Electronics,Supplier B,2886.44,18,1,0,10,20,5,18,2025-09-16,2024-10-17,0.05
+SKU-1045,Embrace Viral Portals,Books,Supplier C,907.86,108,16,0,10,20,5,8,2025-08-02,2024-10-08,0.0
+SKU-1117,Transition One-To-One Functionalities,Electronics,Supplier D,2537.43,162,13,50,10,20,5,9,2025-09-09,2024-10-02,0.0
+SKU-1336,Leverage Web-Enabled Solutions,Personal Care,Supplier B,3881.77,179,12,0,10,20,5,14,2025-09-14,2025-05-02,0.0
+SKU-1302,Monetize Granular E-Markets,Books,Supplier D,2242.63,291,3,0,10,20,5,5,2025-09-19,2025-08-18,0.1
+SKU-1451,Matrix User-Centric Relationships,Books,Supplier C,3793.4,28,3,0,10,20,5,12,2025-09-19,2024-10-28,0.0
+SKU-1059,Unleash Bricks-And-Clicks Infrastructures,Books,Supplier A,3368.98,125,22,50,10,20,5,6,2025-10-24,2025-09-06,0.11666666666666667
+SKU-1221,Iterate Synergistic Synergies,Books,Supplier D,4687.53,91,13,0,10,20,5,19,2025-08-19,2025-04-20,0.03333333333333333
+SKU-1153,Synergize Out-Of-The-Box Portals,Apparel,Supplier B,1335.26,226,31,50,10,20,5,22,2025-08-10,2025-01-29,0.06666666666666667
+SKU-1396,Scale Web-Enabled Experiences,Personal Care,Supplier A,4000.76,16,2,20,10,20,5,29,2025-09-27,2025-07-23,0.0
+SKU-1333,Integrate Integrated Users,Apparel,Supplier B,4669.45,171,33,10,10,20,5,12,2025-08-20,2024-11-04,0.05
+SKU-1004,Stainless Steel Water Bottle,Personal Care,Supplier A,320.75,110,17,0,10,20,5,13,2025-10-17,2025-02-19,0.0
+SKU-1371,Enable Vertical Web Services,Home Goods,Supplier B,2353.74,294,56,0,10,20,5,21,2025-08-01,2025-06-24,0.0
+SKU-1007,Compact Travel Backpack,Apparel,Supplier D,850.0,12,1,10,10,20,5,8,2025-09-28,2025-01-24,0.05
+SKU-1315,Redefine Transparent Applications,Personal Care,Supplier C,2415.61,194,37,0,10,20,5,9,2025-08-11,2024-12-02,0.03333333333333333
+SKU-1508,Reinvent Innovative Solutions,Home Goods,Supplier C,3461.12,18,1,0,10,20,5,25,2025-08-13,2025-06-23,0.0
+SKU-1050,Reinvent Collaborative Web Services,Apparel,Supplier A,1542.47,137,13,0,10,20,5,20,2025-08-20,2024-10-07,0.1
+SKU-1440,Embrace Granular Web Services,Home Goods,Supplier B,3663.06,153,19,0,10,20,5,9,2025-09-23,2024-09-28,0.0
+SKU-1072,Enhance Efficient Applications,Books,Supplier D,2886.59,252,13,0,10,20,5,8,2025-09-30,2025-03-14,0.03333333333333333
+SKU-1087,Benchmark Mission-Critical Methodologies,Electronics,Supplier C,2082.7,87,3,0,10,20,5,26,2025-09-03,2025-01-30,0.0
+SKU-1033,Grow Extensible E-Commerce,Home Goods,Supplier A,1926.73,54,6,0,10,20,5,14,2025-10-03,2025-06-06,0.0
+SKU-1363,Leverage Clicks-And-Mortar Niches,Home Goods,Supplier A,614.25,45,6,0,10,20,5,22,2025-10-03,2025-07-25,0.06666666666666667
+SKU-1211,Incubate Proactive Content,Books,Supplier D,3831.87,61,5,0,10,20,5,5,2025-10-05,2025-04-10,0.05
+SKU-1332,Productize Extensible Users,Apparel,Supplier A,949.34,125,17,0,10,20,5,27,2025-08-18,2024-11-20,0.05
+SKU-1137,Transition Dot-Com Technologies,Personal Care,Supplier A,4962.24,64,2,0,10,20,5,17,2025-09-02,2025-05-23,0.0
+SKU-1063,Incentivize Visionary Mindshare,Electronics,Supplier D,3577.4,217,26,0,10,20,5,25,2025-08-13,2025-02-25,0.0
+SKU-1479,Innovate 24/365 E-Tailers,Personal Care,Supplier C,2302.37,199,8,0,10,20,5,19,2025-09-17,2025-01-06,0.0
+SKU-1321,Scale Global E-Markets,Home Goods,Supplier B,3395.7,137,24,0,10,20,5,21,2025-10-28,2025-04-09,0.03333333333333333
+SKU-1078,Strategize Granular Synergies,Home Goods,Supplier C,1119.9,67,7,0,10,20,5,8,2025-09-03,2025-02-17,0.0
+SKU-1518,Target Efficient Content,Personal Care,Supplier D,4473.23,82,5,0,10,20,5,7,2025-08-04,2024-08-20,0.0
+SKU-1301,Seize Scalable Paradigms,Electronics,Supplier B,1972.21,34,5,0,10,20,5,21,2025-08-14,2024-08-17,0.03333333333333333
+SKU-1195,Mesh Bleeding-Edge Systems,Apparel,Supplier A,4316.65,177,34,0,10,20,5,22,2025-10-24,2024-12-12,0.016666666666666666
+SKU-1155,Embrace 24/7 Schemas,Personal Care,Supplier A,3427.26,220,36,0,10,20,5,15,2025-10-01,2025-05-30,0.1
+SKU-1403,Re-Intermediate Extensible E-Business,Apparel,Supplier A,2170.87,53,7,0,10,20,5,24,2025-08-23,2024-10-17,0.03333333333333333
+SKU-1191,Aggregate Global Models,Electronics,Supplier A,4690.5,143,0,0,10,20,5,24,2025-08-23,2025-06-17,0.05
+SKU-1246,Strategize Scalable Applications,Apparel,Supplier B,4562.99,56,5,20,10,20,5,13,2025-10-01,2025-03-30,0.016666666666666666
+SKU-1433,Reinvent Vertical E-Tailers,Books,Supplier D,1132.98,79,15,0,10,20,5,12,2025-08-31,2025-05-19,0.06666666666666667
+SKU-1492,Deliver Clicks-And-Mortar Content,Apparel,Supplier C,3065.02,29,3,20,10,20,5,21,2025-08-23,2024-09-06,0.0
+SKU-1349,Innovate Cross-Media Mindshare,Home Goods,Supplier C,2055.67,116,10,0,10,20,5,18,2025-10-20,2025-06-02,0.05
+SKU-1222,Syndicate Bleeding-Edge E-Markets,Apparel,Supplier A,1750.79,51,5,0,10,20,5,17,2025-09-16,2024-12-14,0.0
+SKU-1470,Implement Bleeding-Edge Deliverables,Apparel,Supplier C,1283.17,187,28,10,10,20,5,26,2025-09-25,2025-03-14,0.0
+SKU-1071,Repurpose Cross-Media Info-Mediaries,Apparel,Supplier B,3857.2,24,0,50,10,20,5,19,2025-08-17,2025-06-19,0.0
+SKU-1367,Envisioneer User-Centric Eyeballs,Apparel,Supplier A,2987.42,149,23,20,10,20,5,18,2025-08-16,2024-12-25,0.05
+SKU-1366,Generate Efficient Functionalities,Books,Supplier A,3217.43,169,7,0,10,20,5,7,2025-09-01,2025-07-10,0.0
+SKU-1500,Embrace Holistic Solutions,Personal Care,Supplier B,3660.28,111,5,20,10,20,5,9,2025-10-23,2025-08-01,0.0
+SKU-1314,Embrace Distributed Deliverables,Personal Care,Supplier B,772.66,60,8,0,10,20,5,8,2025-09-17,2024-12-05,0.05
+SKU-1215,Facilitate Seamless Synergies,Apparel,Supplier C,2092.47,267,38,0,10,20,5,6,2025-10-24,2025-05-21,0.0
+SKU-1014,Silk Sleep Mask,Personal Care,Supplier D,290.5,156,3,0,10,20,5,28,2025-09-30,2024-10-10,0.11666666666666667
+SKU-1140,Facilitate Front-End Mindshare,Home Goods,Supplier C,3640.0,56,4,0,10,20,5,14,2025-08-07,2024-12-23,0.0
+SKU-1416,Synergize Next-Generation Platforms,Electronics,Supplier B,2401.11,102,7,0,10,20,5,20,2025-08-23,2024-10-17,0.05
+SKU-1073,Exploit Front-End Interfaces,Electronics,Supplier C,4505.18,153,16,0,10,20,5,18,2025-08-22,2025-07-08,0.0
+SKU-1517,E-Enable Turn-Key Users,Electronics,Supplier D,3136.0,278,16,0,10,20,5,13,2025-09-18,2024-12-05,0.0
+SKU-1074,Optimize Viral Info-Mediaries,Personal Care,Supplier A,3446.84,180,23,0,10,20,5,29,2025-10-23,2025-06-08,0.03333333333333333
+SKU-1450,Benchmark Transparent Web-Readiness,Electronics,Supplier C,3721.72,13,2,0,10,20,5,21,2025-09-19,2025-07-21,0.0
+SKU-1236,Evolve Extensible Portals,Apparel,Supplier B,3120.16,184,24,0,10,20,5,9,2025-09-01,2025-03-16,0.03333333333333333
+SKU-1317,Re-Intermediate Dynamic Action-Items,Electronics,Supplier C,4065.78,178,31,0,10,20,5,29,2025-08-14,2024-11-28,0.16666666666666666
+SKU-1369,Exploit End-To-End Architectures,Electronics,Supplier A,1425.23,74,0,0,10,20,5,11,2025-09-09,2024-12-22,0.0
+SKU-1165,Exploit Dynamic Methodologies,Home Goods,Supplier B,4277.86,256,44,0,10,20,5,23,2025-09-08,2024-12-20,0.016666666666666666
+SKU-1094,Integrate B2C Models,Electronics,Supplier D,4603.46,219,30,0,10,20,5,24,2025-09-06,2025-06-18,0.016666666666666666
+SKU-1212,Redefine Cross-Media Partnerships,Electronics,Supplier B,3042.13,24,2,0,10,20,5,5,2025-10-24,2025-06-22,0.0
+SKU-1216,Strategize Leading-Edge Users,Personal Care,Supplier C,3268.13,274,36,0,10,20,5,29,2025-09-26,2025-06-09,0.0
+SKU-1501,Aggregate Front-End Synergies,Books,Supplier D,4742.03,50,6,0,10,20,5,9,2025-09-29,2025-07-28,0.0
+SKU-1187,Architect E-Business Functionalities,Apparel,Supplier B,608.92,142,18,0,10,20,5,7,2025-10-12,2025-07-19,0.03333333333333333
+SKU-1162,Drive Mission-Critical Models,Electronics,Supplier B,3957.51,266,12,0,10,20,5,23,2025-09-07,2025-06-03,0.016666666666666666
+SKU-1005,Noise-Cancelling Earbuds,Electronics,Supplier A,2100.0,179,31,0,10,20,5,10,2025-08-21,2024-10-06,0.0
+SKU-1217,Visualize Back-End Infrastructures,Apparel,Supplier A,4718.8,13,2,0,10,20,5,21,2025-09-07,2025-05-19,0.0
+SKU-1428,Innovate Sticky Markets,Home Goods,Supplier A,1743.89,293,50,0,10,20,5,21,2025-09-27,2024-11-07,0.0
+SKU-1273,Architect Compelling Portals,Apparel,Supplier D,4547.24,107,13,0,10,20,5,12,2025-10-15,2024-12-21,0.05
+SKU-1378,Extend Customized Eyeballs,Books,Supplier B,1320.84,206,0,0,10,20,5,19,2025-08-20,2024-10-04,0.03333333333333333
+SKU-1413,Mesh Open-Source Channels,Home Goods,Supplier C,4309.86,174,21,0,10,20,5,28,2025-08-28,2024-09-26,0.0
+SKU-1351,Incubate Interactive Portals,Apparel,Supplier A,2063.23,133,23,0,10,20,5,28,2025-10-05,2025-03-20,0.0
+SKU-1393,Deliver Value-Added Users,Apparel,Supplier C,1144.85,16,2,0,10,20,5,11,2025-09-17,2024-11-14,0.0
+SKU-1056,Expedite Holistic Mindshare,Home Goods,Supplier C,906.35,209,25,0,10,20,5,5,2025-08-23,2025-03-18,0.05
+SKU-1062,Redefine Cross-Platform Relationships,Personal Care,Supplier D,3539.15,248,9,50,10,20,5,9,2025-08-29,2025-03-03,0.0
+SKU-1377,Incubate Out-Of-The-Box Interfaces,Books,Supplier B,647.9,188,10,0,10,20,5,28,2025-09-27,2024-12-22,0.016666666666666666
+SKU-1259,Iterate Intuitive E-Markets,Personal Care,Supplier B,3241.16,259,29,10,10,20,5,16,2025-10-02,2025-03-29,0.06666666666666667
+SKU-1075,Engineer Enterprise Functionalities,Books,Supplier A,3545.19,213,38,10,10,20,5,7,2025-08-06,2025-01-16,0.03333333333333333
+SKU-1431,Transition Cutting-Edge Markets,Apparel,Supplier C,2273.2,26,4,0,10,20,5,13,2025-08-22,2025-01-27,0.0
+SKU-1194,Redefine Intuitive Niches,Electronics,Supplier B,4281.2,84,6,0,10,20,5,27,2025-09-14,2025-04-18,0.0
+SKU-1082,Disintermediate Customized Vortals,Home Goods,Supplier C,3368.24,180,12,0,10,20,5,9,2025-08-31,2025-02-13,0.03333333333333333
+SKU-1159,Strategize World-Class Content,Personal Care,Supplier B,1808.49,203,24,0,10,20,5,29,2025-08-11,2024-08-18,0.0
+SKU-1330,Extend Customized Interfaces,Electronics,Supplier B,4527.04,283,52,50,10,20,5,22,2025-08-18,2025-02-01,0.016666666666666666
+SKU-1277,Expedite Wireless Vortals,Electronics,Supplier D,3990.04,39,6,10,10,20,5,23,2025-10-11,2024-10-16,0.0
+SKU-1173,Target Visionary Relationships,Personal Care,Supplier C,413.69,79,0,50,10,20,5,25,2025-08-06,2024-09-26,0.05
+SKU-1065,Brand Real-Time Methodologies,Books,Supplier A,3185.96,264,44,0,10,20,5,11,2025-10-04,2024-11-02,0.016666666666666666
+SKU-1279,Mesh Seamless Schemas,Personal Care,Supplier C,1220.35,230,25,10,10,20,5,13,2025-09-12,2025-05-06,0.0
+SKU-1046,Disintermediate Synergistic Channels,Electronics,Supplier A,4960.37,216,24,0,10,20,5,10,2025-08-12,2025-04-06,0.0
+SKU-1350,Enhance Sticky Platforms,Apparel,Supplier D,4734.75,70,8,0,10,20,5,9,2025-09-20,2025-07-03,0.1
+SKU-1096,Target Bricks-And-Clicks Initiatives,Home Goods,Supplier B,958.01,180,1,0,10,20,5,8,2025-10-10,2025-04-10,0.05
+SKU-1263,Incubate Vertical Architectures,Books,Supplier B,2853.06,88,2,10,10,20,5,8,2025-08-07,2025-04-25,0.06666666666666667
+SKU-1243,Utilize Customized Paradigms,Personal Care,Supplier A,3060.26,51,9,20,10,20,5,25,2025-09-29,2025-04-16,0.08333333333333333
+SKU-1085,Deliver E-Business Content,Home Goods,Supplier B,991.71,72,6,50,10,20,5,22,2025-10-27,2025-04-13,0.03333333333333333
+SKU-1342,Incentivize Synergistic Metrics,Books,Supplier C,678.96,142,20,0,10,20,5,7,2025-08-12,2025-06-16,0.0
+SKU-1041,Drive Enterprise Info-Mediaries,Electronics,Supplier D,4228.97,122,17,0,10,20,5,20,2025-08-10,2024-09-05,0.016666666666666666
+SKU-1481,Extend Interactive Networks,Apparel,Supplier C,1452.52,174,19,0,10,20,5,24,2025-08-02,2024-09-11,0.016666666666666666
+SKU-1513,Deliver Integrated Interfaces,Apparel,Supplier D,1473.05,90,5,0,10,20,5,27,2025-09-12,2025-03-12,0.016666666666666666
+SKU-1406,Re-Intermediate Rich Content,Home Goods,Supplier B,4948.59,149,5,0,10,20,5,10,2025-10-23,2024-11-28,0.016666666666666666
+SKU-1039,Engage Strategic Architectures,Books,Supplier B,4841.42,51,8,50,10,20,5,27,2025-09-01,2025-07-31,0.0
+SKU-1435,Seize Global Systems,Personal Care,Supplier C,2214.34,93,10,0,10,20,5,14,2025-09-29,2025-03-07,0.03333333333333333
+SKU-1256,Productize Frictionless E-Tailers,Apparel,Supplier D,834.84,158,25,0,10,20,5,18,2025-09-23,2025-01-14,0.016666666666666666
+SKU-1318,Engage Integrated Relationships,Personal Care,Supplier A,2719.49,244,9,0,10,20,5,21,2025-08-02,2025-02-10,0.08333333333333333
+SKU-1180,Productize Enterprise E-Business,Apparel,Supplier D,1770.57,95,7,0,10,20,5,11,2025-09-27,2025-04-03,0.0
+SKU-1270,Revolutionize Web-Enabled Eyeballs,Home Goods,Supplier D,4602.2,185,2,0,10,20,5,20,2025-10-27,2024-12-30,0.03333333333333333
+SKU-1036,Strategize Impactful Platforms,Electronics,Supplier A,1929.9,55,4,0,10,20,5,18,2025-08-05,2024-10-13,0.03333333333333333
+SKU-1060,Re-Intermediate Revolutionary E-Business,Personal Care,Supplier D,4388.66,198,22,0,10,20,5,6,2025-10-03,2025-09-03,0.0
+SKU-1258,Aggregate Mission-Critical Bandwidth,Apparel,Supplier D,2082.35,262,45,50,10,20,5,16,2025-10-24,2025-06-17,0.05
+SKU-1124,Enable Impactful Portals,Apparel,Supplier D,308.05,22,1,0,10,20,5,15,2025-10-19,2024-12-15,0.016666666666666666
+SKU-1264,Evolve Cross-Platform Networks,Home Goods,Supplier D,2884.02,268,36,10,10,20,5,6,2025-08-17,2025-07-09,0.03333333333333333
+SKU-1311,Scale Out-Of-The-Box Paradigms,Books,Supplier B,2020.96,230,7,0,10,20,5,16,2025-10-20,2025-03-24,0.016666666666666666
+SKU-1305,Repurpose Bleeding-Edge Eyeballs,Home Goods,Supplier B,1921.72,207,20,0,10,20,5,23,2025-08-03,2025-04-30,0.05
+SKU-1025,Re-Intermediate Revolutionary Communities,Books,Supplier D,2678.91,192,24,0,10,20,5,20,2025-08-12,2025-04-05,0.06666666666666667
+SKU-1423,Embrace Innovative Paradigms,Home Goods,Supplier B,3124.88,127,15,0,10,20,5,15,2025-08-26,2024-11-08,0.06666666666666667
+SKU-1410,Revolutionize Visionary Relationships,Personal Care,Supplier C,3344.36,209,2,10,10,20,5,20,2025-09-10,2025-06-15,0.05
+SKU-1035,Redefine Scalable Markets,Books,Supplier C,2890.97,14,0,50,10,20,5,17,2025-09-02,2025-04-10,0.05
+SKU-1139,Whiteboard Synergistic Channels,Home Goods,Supplier C,326.26,224,12,50,10,20,5,6,2025-07-31,2025-05-27,0.0
+SKU-1156,Unleash Back-End Initiatives,Electronics,Supplier C,3090.66,75,0,0,10,20,5,6,2025-08-29,2025-02-19,0.016666666666666666
+SKU-1047,Empower Viral Schemas,Personal Care,Supplier D,1469.2,124,3,20,10,20,5,7,2025-10-08,2024-10-12,0.06666666666666667
+SKU-1079,Iterate Plug-And-Play Interfaces,Personal Care,Supplier B,2020.84,57,2,0,10,20,5,23,2025-10-28,2024-12-21,0.11666666666666667
+SKU-1239,Leverage Wireless E-Commerce,Personal Care,Supplier D,3962.15,134,25,0,10,20,5,11,2025-10-21,2025-05-23,0.0
+SKU-1151,Engineer B2B Models,Home Goods,Supplier A,2120.74,104,2,0,10,20,5,14,2025-10-15,2024-10-30,0.0
+SKU-1476,Embrace Dynamic Web Services,Electronics,Supplier D,2719.86,150,24,0,10,20,5,20,2025-10-27,2025-08-05,0.06666666666666667
+SKU-1240,E-Enable Scalable Synergies,Books,Supplier B,522.22,12,0,0,10,20,5,11,2025-09-18,2025-02-15,0.0
+SKU-1395,Incubate Clicks-And-Mortar Schemas,Electronics,Supplier A,4325.34,15,0,0,10,20,5,12,2025-09-08,2025-06-28,0.13333333333333333
+SKU-1061,Re-Intermediate Best-Of-Breed Schemas,Books,Supplier A,611.82,246,19,50,10,20,5,23,2025-09-24,2025-07-27,0.05
+SKU-1313,Streamline Wireless Communities,Books,Supplier C,2286.77,38,4,0,10,20,5,10,2025-08-03,2024-12-25,0.0
+SKU-1188,Enable World-Class Eyeballs,Books,Supplier D,2769.3,25,0,0,10,20,5,29,2025-08-23,2024-11-14,0.03333333333333333
+SKU-1255,Productize Strategic Platforms,Electronics,Supplier C,1463.13,73,10,0,10,20,5,8,2025-10-14,2025-04-25,0.016666666666666666
+SKU-1093,Drive Cross-Media Portals,Home Goods,Supplier C,1391.92,204,33,0,10,20,5,19,2025-10-16,2025-07-09,0.05
+SKU-1374,Iterate Visionary Web-Readiness,Apparel,Supplier A,576.63,26,3,0,10,20,5,16,2025-08-26,2025-04-11,0.03333333333333333
+SKU-1359,Empower Magnetic E-Commerce,Electronics,Supplier D,2241.61,111,5,0,10,20,5,19,2025-08-06,2025-04-27,0.11666666666666667
+SKU-1507,Utilize Turn-Key Vortals,Apparel,Supplier C,1578.99,272,47,0,10,20,5,19,2025-10-20,2025-08-06,0.0
+SKU-1229,Architect Value-Added Experiences,Books,Supplier A,2611.96,217,19,20,10,20,5,13,2025-10-01,2025-04-15,0.0
+SKU-1459,Repurpose 24/365 Supply-Chains,Personal Care,Supplier B,2204.8,59,3,20,10,20,5,21,2025-10-13,2025-02-16,0.0
+SKU-1070,Synthesize Rich Deliverables,Books,Supplier C,1599.23,236,21,0,10,20,5,17,2025-10-09,2024-10-30,0.08333333333333333
+SKU-1466,Implement Killer Communities,Home Goods,Supplier D,4251.13,98,16,20,10,20,5,8,2025-10-20,2025-01-22,0.016666666666666666
+SKU-1418,Redefine Leading-Edge Applications,Books,Supplier A,1507.26,294,44,0,10,20,5,28,2025-10-24,2025-01-10,0.05
+SKU-1230,Unleash Interactive Interfaces,Books,Supplier D,1229.46,281,49,0,10,20,5,8,2025-10-12,2025-08-08,0.03333333333333333
+SKU-1343,Deploy Next-Generation Markets,Electronics,Supplier D,4147.05,242,2,0,10,20,5,29,2025-10-14,2025-06-29,0.05
+SKU-1412,Productize Seamless Metrics,Apparel,Supplier A,3778.5,265,7,10,10,20,5,17,2025-08-30,2024-10-08,0.03333333333333333
+SKU-1411,Empower Efficient Partnerships,Apparel,Supplier C,1360.0,5,0,0,10,20,5,6,2025-08-03,2024-08-20,0.03333333333333333
+SKU-1488,E-Enable Viral Vortals,Electronics,Supplier A,2328.92,21,3,0,10,20,5,9,2025-10-23,2025-05-02,0.0
+SKU-1458,Integrate Killer Schemas,Apparel,Supplier D,989.21,183,1,20,10,20,5,13,2025-10-03,2024-12-30,0.0
+SKU-1353,Empower Leading-Edge E-Services,Books,Supplier A,2561.45,5,0,0,10,20,5,10,2025-09-17,2025-05-13,0.016666666666666666
+SKU-1509,Brand Dot-Com Methodologies,Home Goods,Supplier C,4941.65,19,3,0,10,20,5,9,2025-08-12,2025-06-24,0.0
+SKU-1254,Innovate Scalable Initiatives,Home Goods,Supplier C,1425.93,247,37,0,10,20,5,9,2025-10-16,2024-11-18,0.05
+SKU-1307,Benchmark 24/7 Schemas,Personal Care,Supplier A,2919.1,28,5,0,10,20,5,22,2025-10-14,2025-01-25,0.0
+SKU-1049,Engineer Extensible Experiences,Books,Supplier B,4807.16,161,20,0,10,20,5,11,2025-10-26,2025-08-01,0.05
+SKU-1183,Whiteboard Impactful Action-Items,Apparel,Supplier D,3173.13,206,27,0,10,20,5,17,2025-10-09,2025-02-06,0.016666666666666666
+SKU-1322,Disintermediate Compelling Experiences,Apparel,Supplier B,2795.85,226,43,0,10,20,5,21,2025-09-23,2025-02-28,0.06666666666666667
+SKU-1422,Architect Back-End Convergence,Personal Care,Supplier C,3745.23,172,26,0,10,20,5,7,2025-09-12,2024-11-14,0.08333333333333333
+SKU-1225,Cultivate Impactful Roi,Personal Care,Supplier B,2196.65,284,38,0,10,20,5,9,2025-10-25,2025-02-21,0.05
+SKU-1278,Empower Bricks-And-Clicks Metrics,Personal Care,Supplier A,933.22,154,21,0,10,20,5,10,2025-08-02,2025-01-21,0.0
+SKU-1176,Syndicate Sticky Methodologies,Home Goods,Supplier C,2718.41,125,3,20,10,20,5,29,2025-09-29,2025-07-29,0.03333333333333333
+SKU-1402,Benchmark Synergistic E-Markets,Electronics,Supplier B,3597.94,164,16,0,10,20,5,26,2025-07-31,2024-11-16,0.03333333333333333
+SKU-1468,Whiteboard World-Class Platforms,Home Goods,Supplier B,1108.0,247,37,0,10,20,5,14,2025-09-26,2025-06-22,0.0
+SKU-1512,Enhance Out-Of-The-Box Metrics,Electronics,Supplier A,4432.09,215,35,20,10,20,5,21,2025-10-28,2025-06-11,0.0
+SKU-1334,Syndicate Cross-Media Convergence,Electronics,Supplier B,1991.34,26,1,0,10,20,5,7,2025-10-18,2025-01-26,0.0
+SKU-1291,Re-Intermediate Viral Platforms,Home Goods,Supplier B,3230.11,14,1,50,10,20,5,21,2025-08-10,2024-11-09,0.0
+SKU-1076,Whiteboard Web-Enabled Markets,Apparel,Supplier D,2824.62,32,3,20,10,20,5,11,2025-09-18,2025-01-04,0.06666666666666667
+SKU-1034,Transition Granular Eyeballs,Electronics,Supplier A,2399.71,161,3,0,10,20,5,13,2025-09-17,2024-12-20,0.08333333333333333
+SKU-1043,Synthesize Compelling Models,Electronics,Supplier C,3655.32,149,7,0,10,20,5,15,2025-10-06,2025-03-06,0.03333333333333333
+SKU-1220,Engage Sticky Convergence,Electronics,Supplier A,4809.97,57,0,10,10,20,5,7,2025-08-28,2024-11-17,0.0
+SKU-1253,Orchestrate Magnetic Web Services,Apparel,Supplier C,4086.07,113,15,0,10,20,5,23,2025-08-25,2025-04-04,0.1
+SKU-1400,Enhance Global Platforms,Personal Care,Supplier B,2365.38,157,26,0,10,20,5,18,2025-10-09,2025-01-17,0.06666666666666667
+SKU-1477,Transform World-Class Action-Items,Books,Supplier A,3941.2,3,0,50,10,20,5,20,2025-10-24,2025-06-26,0.016666666666666666
+SKU-1028,Matrix Clicks-And-Mortar Relationships,Personal Care,Supplier A,1768.8,136,0,0,10,20,5,27,2025-07-31,2025-02-05,0.0
+SKU-1126,Scale Frictionless Communities,Personal Care,Supplier D,4158.22,84,4,0,10,20,5,18,2025-10-08,2025-04-13,0.0
+SKU-1214,Incentivize Synergistic Experiences,Home Goods,Supplier D,1562.43,134,14,0,10,20,5,21,2025-08-09,2024-10-21,0.06666666666666667
+SKU-1287,Exploit Innovative Schemas,Home Goods,Supplier C,2261.25,295,56,0,10,20,5,24,2025-08-02,2024-12-21,0.0
+SKU-1129,Synthesize Seamless Platforms,Personal Care,Supplier D,2816.02,148,24,0,10,20,5,29,2025-10-24,2024-11-20,0.0
+SKU-1443,Disintermediate Robust Supply-Chains,Apparel,Supplier D,3875.03,281,16,10,10,20,5,22,2025-08-15,2025-03-27,0.016666666666666666
+SKU-1426,Syndicate 24/7 Eyeballs,Home Goods,Supplier D,799.32,68,4,0,10,20,5,27,2025-09-01,2024-09-27,0.03333333333333333
+SKU-1364,Engage Web-Enabled Architectures,Home Goods,Supplier C,1206.59,154,25,0,10,20,5,13,2025-10-20,2025-06-13,0.0
+SKU-1310,Productize Customized E-Markets,Books,Supplier A,2702.13,56,10,0,10,20,5,21,2025-09-09,2024-12-29,0.0
+SKU-1519,Target Bleeding-Edge Relationships,Apparel,Supplier C,3301.38,255,17,0,10,20,5,10,2025-09-01,2025-05-13,0.0
+SKU-1204,Evolve Real-Time Interfaces,Personal Care,Supplier C,2979.57,19,3,50,10,20,5,6,2025-08-14,2024-08-20,0.03333333333333333
+SKU-1084,Re-Contextualize Collaborative Mindshare,Books,Supplier B,2149.78,282,9,0,10,20,5,18,2025-09-02,2025-08-01,0.06666666666666667
+SKU-1203,Grow Killer Platforms,Electronics,Supplier B,4561.61,73,8,10,10,20,5,29,2025-09-07,2024-12-28,0.0
+SKU-1385,Morph 24/365 E-Commerce,Apparel,Supplier D,4021.01,51,2,0,10,20,5,19,2025-10-08,2024-12-30,0.016666666666666666
+SKU-1066,Brand Viral E-Tailers,Apparel,Supplier D,2651.83,136,24,50,10,20,5,16,2025-08-04,2024-09-19,0.016666666666666666
+SKU-1444,Orchestrate Compelling Portals,Apparel,Supplier B,1464.77,15,0,0,10,20,5,9,2025-10-19,2025-09-04,0.0
+SKU-1274,Expedite Global E-Services,Personal Care,Supplier B,887.62,248,45,50,10,20,5,19,2025-09-30,2025-07-09,0.0
+SKU-1106,Envisioneer Wireless Portals,Apparel,Supplier C,740.68,258,43,50,10,20,5,10,2025-09-18,2025-05-27,0.03333333333333333
+SKU-1494,Engage Robust Synergies,Apparel,Supplier B,4941.11,254,1,0,10,20,5,13,2025-10-16,2024-10-27,0.05
+SKU-1122,Utilize Front-End Infrastructures,Apparel,Supplier A,1150.88,99,2,50,10,20,5,6,2025-08-15,2025-01-19,0.1
+SKU-1104,Embrace Cross-Platform Experiences,Books,Supplier B,2242.47,92,5,20,10,20,5,10,2025-08-07,2025-01-27,0.0
+SKU-1101,Aggregate Mission-Critical Web Services,Electronics,Supplier D,4754.62,140,6,10,10,20,5,28,2025-08-16,2025-05-25,0.13333333333333333
+SKU-1502,Seize Robust Convergence,Electronics,Supplier A,2887.83,277,39,0,10,20,5,25,2025-09-14,2024-12-21,0.0
+SKU-1372,Transform Efficient Architectures,Books,Supplier D,2401.11,213,14,0,10,20,5,14,2025-10-19,2025-04-12,0.15
+SKU-1138,Orchestrate Wireless Portals,Electronics,Supplier A,1200.63,85,3,20,10,20,5,13,2025-09-04,2024-10-08,0.0
+SKU-1210,Grow Innovative E-Commerce,Apparel,Supplier B,3891.3,222,22,50,10,20,5,8,2025-09-09,2025-01-13,0.03333333333333333
+SKU-1447,Target Vertical Web-Readiness,Personal Care,Supplier A,3519.52,209,26,0,10,20,5,27,2025-08-01,2025-05-08,0.03333333333333333
+SKU-1324,Expedite Best-Of-Breed Communities,Books,Supplier D,1041.49,101,2,20,10,20,5,8,2025-10-20,2025-07-17,0.016666666666666666
+SKU-1185,Streamline Open-Source Partnerships,Home Goods,Supplier C,3548.27,103,16,0,10,20,5,15,2025-09-04,2024-11-02,0.0
+SKU-1272,Orchestrate Frictionless Eyeballs,Home Goods,Supplier A,2606.28,159,17,50,10,20,5,10,2025-09-27,2025-06-01,0.05
+SKU-1083,Strategize 24/7 Applications,Books,Supplier C,2990.91,103,12,0,10,20,5,26,2025-10-26,2025-03-05,0.0
+SKU-1262,Cultivate Visionary Initiatives,Electronics,Supplier D,503.72,214,5,50,10,20,5,16,2025-10-27,2025-04-16,0.08333333333333333
+SKU-1497,Redefine Collaborative Solutions,Electronics,Supplier C,4698.58,243,42,0,10,20,5,27,2025-09-30,2025-02-12,0.03333333333333333
+SKU-1145,Mesh 24/7 Eyeballs,Apparel,Supplier C,3270.9,131,23,20,10,20,5,5,2025-08-19,2024-12-21,0.016666666666666666
+SKU-1462,Morph Compelling Info-Mediaries,Books,Supplier B,4919.05,204,11,10,10,20,5,19,2025-10-01,2025-03-17,0.05
+SKU-1186,Redefine Collaborative Mindshare,Books,Supplier B,1818.7,205,3,0,10,20,5,23,2025-09-30,2024-10-12,0.0
+SKU-1091,Incubate Best-Of-Breed Mindshare,Apparel,Supplier A,4073.41,61,10,0,10,20,5,20,2025-09-18,2025-03-28,0.06666666666666667
+SKU-1460,Orchestrate One-To-One Technologies,Electronics,Supplier B,4847.14,248,21,0,10,20,5,5,2025-09-21,2025-03-31,0.03333333333333333
+SKU-1505,Whiteboard Ubiquitous Markets,Home Goods,Supplier B,3909.73,38,4,0,10,20,5,11,2025-09-06,2025-05-01,0.05
+SKU-1358,Maximize Holistic Info-Mediaries,Apparel,Supplier D,3273.49,278,52,0,10,20,5,18,2025-10-19,2024-12-20,0.0
+SKU-1148,Evolve Back-End Methodologies,Electronics,Supplier A,3421.04,217,2,0,10,20,5,10,2025-10-05,2024-12-10,0.0
+SKU-1224,Implement Rich Initiatives,Books,Supplier D,1928.25,205,32,0,10,20,5,22,2025-09-17,2024-11-08,0.0
+SKU-1113,Envisioneer 24/365 Interfaces,Apparel,Supplier B,1331.46,62,9,0,10,20,5,19,2025-08-19,2025-04-06,0.05
+SKU-1515,Exploit Efficient Info-Mediaries,Electronics,Supplier D,1608.7,293,5,0,10,20,5,22,2025-10-27,2025-04-30,0.13333333333333333
+SKU-1032,Evolve Integrated E-Tailers,Electronics,Supplier B,2954.36,52,2,0,10,20,5,18,2025-10-10,2025-04-29,0.0
+SKU-1248,Streamline Open-Source Mindshare,Books,Supplier A,4273.3,246,3,0,10,20,5,23,2025-10-11,2025-08-11,0.016666666666666666
+SKU-1055,Aggregate Efficient Bandwidth,Home Goods,Supplier A,2409.36,106,5,0,10,20,5,7,2025-09-10,2025-03-26,0.0
+SKU-1249,Drive Ubiquitous Portals,Home Goods,Supplier B,2815.77,281,24,0,10,20,5,7,2025-10-21,2025-06-08,0.05
+SKU-1503,Disintermediate Leading-Edge Synergies,Apparel,Supplier D,1264.17,168,13,20,10,20,5,14,2025-10-17,2025-07-11,0.05
+SKU-1303,Whiteboard Mission-Critical Users,Books,Supplier B,3808.84,72,7,0,10,20,5,13,2025-10-13,2025-04-13,0.03333333333333333
+SKU-1484,Benchmark Ubiquitous Systems,Apparel,Supplier D,1697.08,47,6,0,10,20,5,15,2025-10-20,2025-04-29,0.0
+SKU-1283,Morph B2C Web Services,Apparel,Supplier B,2915.21,33,3,0,10,20,5,16,2025-09-23,2025-04-11,0.0
+SKU-1455,Grow Strategic Infrastructures,Personal Care,Supplier B,2290.76,207,39,0,10,20,5,16,2025-09-07,2024-10-06,0.016666666666666666
+SKU-1338,Scale User-Centric Portals,Personal Care,Supplier D,2040.8,126,22,0,10,20,5,29,2025-08-13,2024-11-08,0.11666666666666667
+SKU-1142,Productize Innovative Markets,Apparel,Supplier D,3650.68,150,21,10,10,20,5,29,2025-08-12,2025-04-09,0.06666666666666667
+SKU-1409,Strategize Front-End Initiatives,Home Goods,Supplier D,1167.47,10,0,0,10,20,5,13,2025-10-17,2024-12-25,0.0
+SKU-1368,Incentivize E-Business Partnerships,Personal Care,Supplier B,4048.17,297,5,0,10,20,5,15,2025-09-06,2025-01-31,0.1
+SKU-1387,Synergize Bleeding-Edge Partnerships,Books,Supplier D,4899.38,10,0,50,10,20,5,20,2025-08-28,2025-05-02,0.03333333333333333
+SKU-1054,Unleash Bricks-And-Clicks Initiatives,Books,Supplier D,1366.11,46,3,0,10,20,5,19,2025-10-17,2025-05-13,0.016666666666666666
+SKU-1275,Synergize Cross-Media E-Services,Books,Supplier C,965.69,271,26,0,10,20,5,5,2025-09-16,2024-12-28,0.0
+SKU-1354,Grow B2C Metrics,Home Goods,Supplier D,1307.62,280,9,0,10,20,5,16,2025-10-23,2025-01-06,0.05
+SKU-1280,Integrate Compelling Systems,Apparel,Supplier C,3151.4,254,15,0,10,20,5,11,2025-09-29,2024-12-19,0.03333333333333333
+SKU-1271,Productize Holistic Experiences,Apparel,Supplier A,2401.62,218,31,0,10,20,5,19,2025-08-02,2024-09-20,0.05
+SKU-1107,Empower Bricks-And-Clicks Applications,Electronics,Supplier C,2220.57,55,7,20,10,20,5,5,2025-10-03,2025-08-29,0.05
+SKU-1228,Mesh Revolutionary Platforms,Apparel,Supplier C,2968.56,179,11,0,10,20,5,24,2025-08-16,2025-06-06,0.016666666666666666
+SKU-1161,Synergize Clicks-And-Mortar Niches,Electronics,Supplier D,727.21,43,6,0,10,20,5,7,2025-10-08,2025-04-10,0.05
+SKU-1299,Engineer Out-Of-The-Box Interfaces,Home Goods,Supplier C,2516.2,3,0,10,10,20,5,17,2025-08-03,2024-11-18,0.05
+SKU-1464,Target Intuitive Channels,Home Goods,Supplier A,1181.2,37,7,0,10,20,5,14,2025-08-20,2024-09-28,0.0
+SKU-1189,Drive Holistic E-Tailers,Home Goods,Supplier B,3424.43,43,6,10,10,20,5,21,2025-10-04,2025-08-12,0.0
+SKU-1386,Strategize Customized Markets,Books,Supplier A,1387.73,253,50,50,10,20,5,22,2025-10-11,2025-04-30,0.0
+SKU-1360,Maximize World-Class Action-Items,Home Goods,Supplier C,3654.08,122,8,0,10,20,5,28,2025-09-15,2024-10-17,0.0
+SKU-1120,Reinvent Holistic Niches,Home Goods,Supplier A,2916.64,159,29,0,10,20,5,11,2025-10-09,2025-07-08,0.06666666666666667
+SKU-1304,Orchestrate End-To-End Models,Home Goods,Supplier C,3074.04,139,0,0,10,20,5,11,2025-07-31,2024-09-03,0.06666666666666667
+SKU-1242,Target E-Business Communities,Personal Care,Supplier C,4183.1,154,17,0,10,20,5,28,2025-08-31,2025-04-22,0.05
+SKU-1200,Harness Proactive Solutions,Personal Care,Supplier A,1425.89,173,0,0,10,20,5,12,2025-08-06,2025-02-24,0.0
+SKU-1405,Evolve Next-Generation Users,Home Goods,Supplier C,4610.37,272,29,0,10,20,5,8,2025-09-11,2025-04-09,0.0
+SKU-1086,Integrate Wireless Applications,Electronics,Supplier B,3595.8,51,9,0,10,20,5,13,2025-08-18,2025-06-19,0.06666666666666667
+SKU-1127,Exploit One-To-One Action-Items,Apparel,Supplier B,3106.22,84,4,10,10,20,5,22,2025-10-12,2025-08-29,0.03333333333333333
+SKU-1010,Yoga Mat with Carry Strap,Apparel,Supplier A,780.25,9,1,0,10,20,5,6,2025-09-15,2024-12-24,0.03333333333333333
+SKU-1457,Synergize Distributed Roi,Apparel,Supplier B,4903.65,147,4,0,10,20,5,26,2025-10-02,2024-10-04,0.0
+SKU-1261,Drive Real-Time E-Markets,Electronics,Supplier C,2886.68,248,43,10,10,20,5,21,2025-08-09,2024-10-08,0.08333333333333333
+SKU-1420,Leverage Dynamic Web Services,Electronics,Supplier B,3035.04,177,8,0,10,20,5,14,2025-10-26,2025-04-30,0.06666666666666667
+SKU-1382,Maximize Next-Generation Applications,Home Goods,Supplier D,2769.94,239,19,0,10,20,5,19,2025-08-08,2025-03-11,0.03333333333333333
+SKU-1445,Benchmark B2B Web Services,Books,Supplier D,407.47,4,0,20,10,20,5,17,2025-08-10,2025-01-30,0.0
+SKU-1356,Visualize Customized Architectures,Books,Supplier B,3991.4,262,15,10,10,20,5,18,2025-08-26,2024-12-05,0.05
+SKU-1116,Disintermediate Scalable Platforms,Home Goods,Supplier C,4635.35,293,26,0,10,20,5,14,2025-08-05,2024-10-18,0.0
+SKU-1184,Repurpose Value-Added E-Commerce,Home Goods,Supplier A,2113.25,194,36,50,10,20,5,18,2025-10-05,2025-02-01,0.03333333333333333
+SKU-1227,Iterate Seamless Architectures,Books,Supplier D,4076.07,225,29,0,10,20,5,18,2025-10-01,2025-06-07,0.03333333333333333
+SKU-1491,Extend Dot-Com Systems,Home Goods,Supplier A,4192.8,83,7,0,10,20,5,23,2025-10-27,2025-01-11,0.05
+SKU-1190,Extend Web-Enabled Partnerships,Apparel,Supplier A,829.49,283,13,10,10,20,5,12,2025-09-20,2024-11-08,0.0
+SKU-1282,Synergize Extensible Partnerships,Electronics,Supplier A,4680.72,212,6,0,10,20,5,8,2025-08-12,2025-01-13,0.03333333333333333
+SKU-1461,Grow Front-End E-Services,Electronics,Supplier B,609.45,17,1,10,10,20,5,26,2025-10-25,2025-09-15,0.05
+SKU-1427,Target Compelling Relationships,Apparel,Supplier D,2771.89,77,3,0,10,20,5,16,2025-09-22,2025-05-25,0.0
+SKU-1251,Engineer Value-Added Mindshare,Personal Care,Supplier A,3292.72,75,5,0,10,20,5,10,2025-10-13,2025-07-19,0.0
+SKU-1434,Monetize B2B Applications,Home Goods,Supplier B,494.47,176,10,0,10,20,5,9,2025-10-04,2024-12-31,0.0
+SKU-1234,Cultivate Out-Of-The-Box Technologies,Personal Care,Supplier C,1818.84,138,4,0,10,20,5,18,2025-08-26,2024-10-03,0.08333333333333333
+SKU-1352,Iterate Back-End Eyeballs,Personal Care,Supplier A,1968.15,193,37,0,10,20,5,28,2025-10-23,2025-05-12,0.03333333333333333
+SKU-1235,Integrate Turn-Key Mindshare,Personal Care,Supplier B,3144.36,171,30,0,10,20,5,27,2025-09-15,2025-06-27,0.03333333333333333
+SKU-1308,Enhance Strategic Vortals,Apparel,Supplier C,2314.01,239,45,0,10,20,5,20,2025-09-26,2025-05-23,0.0
+SKU-1504,Synergize Wireless Initiatives,Books,Supplier B,1720.3,185,2,0,10,20,5,10,2025-08-15,2025-02-14,0.016666666666666666
+SKU-1373,Streamline End-To-End Systems,Electronics,Supplier D,4060.82,56,5,0,10,20,5,25,2025-10-01,2024-11-09,0.1
+SKU-1419,Evolve Visionary Users,Electronics,Supplier B,3495.22,101,0,0,10,20,5,12,2025-10-28,2024-11-11,0.0
+SKU-1223,Benchmark Plug-And-Play Bandwidth,Books,Supplier B,3511.2,147,19,0,10,20,5,10,2025-08-09,2024-09-19,0.0
+SKU-1077,Mesh Real-Time Supply-Chains,Electronics,Supplier A,2299.51,33,2,0,10,20,5,11,2025-08-15,2024-10-29,0.03333333333333333
+SKU-1325,Engage Clicks-And-Mortar Methodologies,Personal Care,Supplier A,3283.94,10,1,0,10,20,5,11,2025-10-12,2025-04-29,0.0
+SKU-1487,Syndicate Strategic Models,Apparel,Supplier A,4639.33,91,16,0,10,20,5,11,2025-10-11,2025-01-22,0.0
+SKU-1379,Monetize Virtual E-Business,Home Goods,Supplier B,4605.24,21,0,0,10,20,5,23,2025-08-19,2025-01-23,0.03333333333333333
+SKU-1088,Scale Turn-Key E-Commerce,Personal Care,Supplier A,1115.56,53,1,0,10,20,5,14,2025-08-24,2025-05-10,0.016666666666666666
+SKU-1327,Incentivize One-To-One Relationships,Electronics,Supplier B,1206.6,192,24,0,10,20,5,27,2025-08-12,2024-10-06,0.0
+SKU-1111,Embrace Bleeding-Edge Roi,Books,Supplier B,4451.12,210,35,50,10,20,5,7,2025-10-03,2025-01-08,0.016666666666666666
+SKU-1252,Transform Rich Action-Items,Electronics,Supplier C,4091.15,156,11,10,10,20,5,8,2025-08-16,2025-02-16,0.016666666666666666
+SKU-1174,Maximize Revolutionary Supply-Chains,Books,Supplier D,4773.77,114,5,0,10,20,5,27,2025-09-14,2025-03-21,0.016666666666666666
+SKU-1218,Leverage Customized Web-Readiness,Home Goods,Supplier B,1699.09,164,16,0,10,20,5,12,2025-09-25,2025-02-24,0.016666666666666666
+SKU-1198,Disintermediate Wireless Content,Apparel,Supplier A,2350.82,183,13,0,10,20,5,24,2025-10-05,2025-08-01,0.05
+SKU-1141,Aggregate Value-Added Convergence,Apparel,Supplier D,1231.92,132,18,0,10,20,5,15,2025-10-06,2025-09-06,0.0
+SKU-1424,Target B2B Markets,Books,Supplier A,2182.38,20,3,0,10,20,5,13,2025-08-12,2025-04-08,0.08333333333333333
+SKU-1044,Transform Viral Markets,Electronics,Supplier B,1380.57,236,23,0,10,20,5,17,2025-10-22,2025-08-08,0.0
+SKU-1099,Utilize End-To-End Infrastructures,Books,Supplier B,3131.86,7,0,0,10,20,5,12,2025-08-14,2024-09-15,0.0
+SKU-1276,Generate Best-Of-Breed Applications,Electronics,Supplier B,1487.85,190,8,0,10,20,5,17,2025-09-08,2025-06-06,0.06666666666666667
+SKU-1472,Streamline Best-Of-Breed Users,Home Goods,Supplier A,1339.16,48,2,0,10,20,5,27,2025-07-31,2025-02-06,0.03333333333333333
+SKU-1257,Syndicate Front-End Networks,Books,Supplier C,1788.09,116,18,0,10,20,5,21,2025-10-16,2025-03-08,0.03333333333333333
+SKU-1146,Embrace Bleeding-Edge Web-Readiness,Personal Care,Supplier A,329.0,98,11,0,10,20,5,22,2025-10-24,2025-05-26,0.0
+SKU-1080,Benchmark Granular Users,Personal Care,Supplier B,3035.33,246,9,0,10,20,5,6,2025-08-17,2024-08-22,0.0
+SKU-1115,Seize Bleeding-Edge Users,Books,Supplier C,404.94,60,7,0,10,20,5,25,2025-10-19,2025-06-09,0.1
+SKU-1394,Morph Holistic Applications,Apparel,Supplier A,734.83,10,1,20,10,20,5,23,2025-08-21,2025-05-28,0.03333333333333333
+SKU-1192,Optimize Distributed Mindshare,Personal Care,Supplier C,3821.26,181,14,10,10,20,5,18,2025-08-13,2024-08-19,0.016666666666666666
+SKU-1213,Drive E-Business Paradigms,Personal Care,Supplier D,1730.85,1,0,0,10,20,5,18,2025-08-12,2024-12-14,0.0
+SKU-1329,Engineer Strategic Partnerships,Electronics,Supplier D,2556.44,200,36,0,10,20,5,10,2025-08-03,2025-06-27,0.0
+SKU-1337,Deliver Visionary Experiences,Apparel,Supplier C,2309.08,186,27,0,10,20,5,8,2025-10-14,2025-04-20,0.03333333333333333
+SKU-1432,Architect Front-End Content,Apparel,Supplier A,3115.61,104,6,0,10,20,5,17,2025-09-14,2025-05-24,0.03333333333333333
+SKU-1160,Visualize Innovative E-Tailers,Electronics,Supplier B,1937.53,244,3,0,10,20,5,16,2025-10-23,2025-09-10,0.0
+SKU-1384,Visualize Distributed Markets,Books,Supplier B,2116.8,267,38,10,10,20,5,28,2025-10-25,2024-12-02,0.03333333333333333
+SKU-1167,Synergize Cross-Media Architectures,Personal Care,Supplier C,3144.05,199,21,0,10,20,5,6,2025-10-15,2025-04-11,0.08333333333333333
+SKU-1193,Target One-To-One Eyeballs,Electronics,Supplier C,4272.3,284,55,0,10,20,5,6,2025-08-17,2025-03-26,0.08333333333333333
+SKU-1467,Evolve Mission-Critical Content,Electronics,Supplier A,3340.74,117,11,50,10,20,5,23,2025-10-15,2025-03-12,0.0
+SKU-1344,Benchmark E-Business Networks,Electronics,Supplier C,3534.15,288,0,0,10,20,5,27,2025-09-17,2024-11-14,0.016666666666666666
+SKU-1289,Revolutionize Turn-Key Applications,Apparel,Supplier B,1151.75,87,12,0,10,20,5,18,2025-09-09,2025-02-12,0.03333333333333333
+SKU-1057,Enable End-To-End E-Services,Apparel,Supplier B,445.91,235,40,0,10,20,5,14,2025-10-04,2025-08-09,0.0
+SKU-1105,Productize Mission-Critical Eyeballs,Home Goods,Supplier A,4846.94,28,4,10,10,20,5,28,2025-09-20,2025-03-24,0.08333333333333333
+SKU-1017,Electric Kettle 1.5L,Personal Care,Supplier D,1150.0,234,2,0,10,20,5,28,2025-09-30,2025-05-27,0.05
+SKU-1388,Scale Holistic Web-Readiness,Electronics,Supplier A,2176.62,43,6,0,10,20,5,18,2025-09-14,2025-02-04,0.1
+SKU-1067,Matrix Efficient Synergies,Books,Supplier A,4087.11,28,1,0,10,20,5,8,2025-08-23,2024-10-12,0.0
+SKU-1123,Expedite Intuitive Eyeballs,Electronics,Supplier A,3414.22,251,38,10,10,20,5,29,2025-09-07,2024-09-11,0.0
+SKU-1181,Deploy Holistic Users,Books,Supplier A,2108.35,125,16,0,10,20,5,28,2025-10-19,2025-08-31,0.016666666666666666
+SKU-1182,E-Enable Vertical Metrics,Apparel,Supplier B,2839.5,186,30,10,10,20,5,27,2025-10-13,2024-10-26,0.0
+SKU-1437,Transition Interactive Interfaces,Personal Care,Supplier A,1004.32,130,13,0,10,20,5,23,2025-10-07,2025-06-01,0.0
+SKU-1339,Optimize Dynamic Experiences,Books,Supplier D,4260.27,105,8,50,10,20,5,13,2025-08-22,2025-05-17,0.05
+SKU-1131,Embrace Synergistic Portals,Books,Supplier D,3492.35,23,2,0,10,20,5,25,2025-10-03,2025-05-11,0.06666666666666667
+SKU-1506,Innovate Vertical Systems,Personal Care,Supplier B,1368.43,107,7,0,10,20,5,27,2025-10-19,2025-06-09,0.0
+SKU-1163,Transition 24/7 Action-Items,Home Goods,Supplier C,1615.46,107,6,10,10,20,5,12,2025-08-13,2024-11-04,0.03333333333333333
+SKU-1112,Unleash 24/365 E-Commerce,Books,Supplier A,1827.19,286,43,0,10,20,5,20,2025-09-13,2025-07-24,0.11666666666666667
+SKU-1026,Incentivize Efficient Communities,Electronics,Supplier A,1372.81,248,38,0,10,20,5,14,2025-10-14,2025-01-22,0.0
+SKU-1208,Leverage Real-Time Supply-Chains,Books,Supplier B,4347.68,87,15,0,10,20,5,11,2025-08-02,2025-03-12,0.05
+SKU-1154,Empower Value-Added Info-Mediaries,Home Goods,Supplier B,490.04,5,0,0,10,20,5,21,2025-10-08,2025-03-31,0.1
+SKU-1266,Engage B2C Models,Personal Care,Supplier D,4652.96,118,5,0,10,20,5,11,2025-09-10,2025-03-22,0.03333333333333333
+SKU-1147,Revolutionize Clicks-And-Mortar E-Business,Home Goods,Supplier C,4505.08,119,21,0,10,20,5,17,2025-09-29,2025-07-20,0.1
+SKU-1006,Aromatic Scented Candle,Personal Care,Supplier B,250.2,5,0,0,10,20,5,28,2025-09-20,2025-08-17,0.03333333333333333
+SKU-1483,Facilitate Scalable Convergence,Electronics,Supplier D,1002.54,246,11,0,10,20,5,14,2025-09-10,2024-10-24,0.0
+SKU-1023,Innovate Magnetic Eyeballs,Home Goods,Supplier B,4925.92,143,16,0,10,20,5,20,2025-08-21,2024-09-08,0.03333333333333333
+SKU-1030,Strategize Seamless Relationships,Electronics,Supplier B,765.76,5,0,0,10,20,5,29,2025-08-24,2024-09-22,0.05
+SKU-1520,Synergize 24/7 E-Business,Electronics,Supplier C,1033.97,24,2,0,10,20,5,23,2025-09-24,2025-07-07,0.03333333333333333
+SKU-1362,Monetize End-To-End Markets,Electronics,Supplier C,4508.47,126,8,50,10,20,5,6,2025-09-15,2025-01-03,0.05
+SKU-1421,Harness B2C Relationships,Electronics,Supplier A,3330.75,105,12,0,10,20,5,14,2025-10-03,2025-07-21,0.05
+SKU-1490,Implement Vertical Applications,Home Goods,Supplier A,3892.81,32,3,0,10,20,5,15,2025-08-22,2025-03-11,0.0
+SKU-1052,Seize Compelling Deliverables,Home Goods,Supplier B,546.53,138,8,0,10,20,5,25,2025-08-19,2024-11-15,0.016666666666666666
+SKU-1209,Repurpose Real-Time Systems,Apparel,Supplier D,3328.96,121,23,0,10,20,5,22,2025-10-10,2025-04-29,0.05
+SKU-1132,Expedite Cutting-Edge Paradigms,Home Goods,Supplier A,4450.18,20,3,0,10,20,5,26,2025-10-04,2025-05-16,0.05
+SKU-1281,Synergize Proactive Infrastructures,Home Goods,Supplier B,2778.27,101,3,20,10,20,5,15,2025-08-19,2025-05-02,0.016666666666666666
+SKU-1152,Strategize Real-Time Schemas,Electronics,Supplier C,2299.02,197,5,50,10,20,5,27,2025-09-02,2025-06-14,0.1
+SKU-1284,Deploy Global Technologies,Personal Care,Supplier C,4819.7,177,6,0,10,20,5,16,2025-09-04,2025-04-26,0.03333333333333333
+SKU-1496,Synergize Out-Of-The-Box Experiences,Personal Care,Supplier A,603.29,194,15,0,10,20,5,17,2025-09-09,2025-06-13,0.0
+SKU-1446,Transform Interactive Metrics,Electronics,Supplier D,1222.44,153,5,20,10,20,5,17,2025-08-18,2025-01-21,0.05
+SKU-1486,Optimize Cross-Media Interfaces,Personal Care,Supplier A,4462.06,45,8,50,10,20,5,15,2025-10-12,2024-12-28,0.0
+SKU-1392,Engage Enterprise Mindshare,Home Goods,Supplier B,676.48,64,12,10,10,20,5,17,2025-08-25,2024-12-04,0.016666666666666666
+SKU-1389,Architect Intuitive Web-Readiness,Books,Supplier A,4512.8,281,38,10,10,20,5,15,2025-09-23,2025-01-30,0.0
+SKU-1398,Engage Impactful Methodologies,Personal Care,Supplier A,1658.78,219,29,50,10,20,5,27,2025-09-02,2025-01-17,0.0
+SKU-1206,Evolve Transparent Web-Readiness,Home Goods,Supplier C,3489.22,254,26,50,10,20,5,21,2025-10-21,2025-06-03,0.1
+SKU-1012,Smart Fitness Tracker,Books,Supplier C,1850.8,48,4,0,10,20,5,20,2025-10-09,2024-10-14,0.05
+SKU-1179,Scale User-Centric Methodologies,Apparel,Supplier A,2078.21,195,34,50,10,20,5,23,2025-08-15,2025-04-17,0.0
+SKU-1453,Aggregate Compelling Functionalities,Electronics,Supplier A,708.06,5,0,20,10,20,5,21,2025-10-05,2024-11-18,0.0
+SKU-1175,Scale Revolutionary Synergies,Books,Supplier B,4818.27,102,18,0,10,20,5,9,2025-08-06,2025-06-26,0.0
+SKU-1202,Transform One-To-One Vortals,Personal Care,Supplier A,4144.99,66,7,0,10,20,5,27,2025-10-15,2025-04-01,0.0
+SKU-1312,Synergize Cross-Media Synergies,Personal Care,Supplier D,4012.75,178,13,0,10,20,5,9,2025-10-21,2025-01-07,0.0
+SKU-1109,Syndicate Sticky Users,Home Goods,Supplier A,4822.33,155,30,0,10,20,5,13,2025-10-27,2025-06-05,0.1
+SKU-1300,Synergize Magnetic Portals,Personal Care,Supplier C,2230.64,211,14,0,10,20,5,14,2025-09-28,2025-08-26,0.0
+SKU-1465,Generate Visionary Experiences,Home Goods,Supplier D,1396.59,204,37,0,10,20,5,5,2025-08-01,2024-08-05,0.0
+SKU-1348,Revolutionize Revolutionary Networks,Books,Supplier D,2573.69,6,0,0,10,20,5,20,2025-09-30,2024-10-01,0.0
+SKU-1157,Streamline Impactful Networks,Books,Supplier D,4631.62,74,6,10,10,20,5,17,2025-10-03,2024-12-22,0.0
+SKU-1097,Scale Real-Time Mindshare,Personal Care,Supplier D,1434.34,10,0,0,10,20,5,13,2025-08-15,2024-11-05,0.03333333333333333
+SKU-1231,Repurpose Value-Added Paradigms,Books,Supplier C,4012.08,141,24,50,10,20,5,26,2025-10-16,2024-10-24,0.13333333333333333
+SKU-1241,Leverage 24/365 Web Services,Personal Care,Supplier A,2003.6,38,5,20,10,20,5,16,2025-08-06,2024-10-05,0.03333333333333333
+SKU-1260,Optimize Bricks-And-Clicks Roi,Electronics,Supplier B,3895.14,29,3,0,10,20,5,16,2025-09-12,2025-07-25,0.0
+SKU-1089,Syndicate Best-Of-Breed Niches,Apparel,Supplier D,2237.79,19,2,0,10,20,5,20,2025-08-21,2025-06-01,0.03333333333333333
+SKU-1237,Synthesize Cross-Platform Infrastructures,Home Goods,Supplier C,3255.53,218,7,20,10,20,5,18,2025-09-25,2025-03-24,0.03333333333333333
+SKU-1320,Reinvent Collaborative Users,Electronics,Supplier A,369.25,214,21,20,10,20,5,26,2025-08-02,2024-10-22,0.08333333333333333
+SKU-1090,Iterate Sticky Mindshare,Electronics,Supplier B,1617.81,261,1,0,10,20,5,9,2025-10-01,2025-01-06,0.16666666666666666
+SKU-1404,Whiteboard Dot-Com Mindshare,Books,Supplier C,4485.43,277,48,0,10,20,5,12,2025-08-06,2025-06-08,0.0
+SKU-1380,Redefine Bricks-And-Clicks E-Commerce,Apparel,Supplier B,2924.61,257,7,0,10,20,5,20,2025-10-21,2025-05-26,0.05
+SKU-1205,Mesh Rich E-Business,Personal Care,Supplier D,4338.88,221,10,0,10,20,5,21,2025-09-19,2025-04-28,0.05
+SKU-1244,Repurpose Cross-Platform Roi,Personal Care,Supplier D,1609.58,93,16,20,10,20,5,12,2025-08-11,2025-04-08,0.0
+SKU-1417,Syndicate 24/7 E-Markets,Home Goods,Supplier C,3960.74,184,16,20,10,20,5,11,2025-10-16,2025-02-17,0.016666666666666666
+SKU-1233,Transform Integrated Bandwidth,Home Goods,Supplier C,4801.73,157,9,0,10,20,5,17,2025-09-28,2025-04-10,0.08333333333333333
+SKU-1172,Monetize B2B Info-Mediaries,Books,Supplier B,3914.16,111,6,0,10,20,5,10,2025-09-03,2025-04-02,0.05
+SKU-1499,Harness Distributed Models,Home Goods,Supplier D,3253.11,138,22,20,10,20,5,23,2025-08-05,2024-12-06,0.0
+SKU-1144,Mesh Integrated Networks,Apparel,Supplier C,2600.37,195,11,20,10,20,5,20,2025-08-19,2025-06-10,0.0

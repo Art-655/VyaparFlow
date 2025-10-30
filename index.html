@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Global Error Handler -->
+        <script>
+            (() => {
+                window.addEventListener('error', e => {
+                    console.error('Error:', e.message, e.filename, e.lineno, e.error?.stack);
+                    e.preventDefault();
+                });
+                window.addEventListener('unhandledrejection', e => {
+                    console.error('Promise Rejection:', e.reason);
+                    e.preventDefault();
+                });
+                window.onerror = (msg, src, line, col, err) => {
+                    console.error('Window Error:', msg, src, line, err?.stack);
+                    return true;
+                };
+            })();
+        </script>
+        <meta charset="UTF-8" />
+        <link rel="icon" type="image/png" href="https://storage.googleapis.com/fenado-ai-farm-public/generated/f822c49b-0faf-4632-b39c-b7c53da01628.webp" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Removed external badge script -->
+        <!-- IMPORTANT: DO NOT CHANGE THE TITLE -->
+        <title>VyaparFlow</title>
+    </head>
+    <body>
+        <div id="root"></div>
+        <script type="module" src="/src/main.tsx"></script>
+    </body>
+</html>

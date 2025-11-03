@@ -1,4 +1,4 @@
-# VyaparFlow Websit - Theme System Documentation
+# VyaparFlow Website - Theme System Documentation
 
 A modern React + TypeScript + Vite application with a comprehensive theme system supporting multiple color schemes and dark/light modes.
 
